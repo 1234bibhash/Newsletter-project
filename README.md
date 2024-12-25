@@ -6,6 +6,9 @@ A powerful and user-friendly email newsletter application that allows users to d
 
 ---
 
+![News-letter](Newletter-image)
+
+
 ## Features
 
 ### Email Creation and Management
